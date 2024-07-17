@@ -1,0 +1,10 @@
+package app;
+
+// PASTA .idea ONDE EXISTE TODOS OS ARQUIVOS DE CONFIGURAÇAO DA IDE PARA O PROJETO TODA A CONFIGURAÇAO DO PROJETO QUE FOR FEITA E ATUALIZADA AUTOMATICAMENTE AQUI
+public class MinhaPrimeiraCalss {
+
+    public static void main(String[] args) { // E PRECISO O METADO MAIN PARA UMA APLICAÇAO JAVA RODAR
+        System.out.println("hello word java");
+    }
+}
+// TODO PROGRAMA JAVA COMECA NO METODO MAIN
